@@ -1,0 +1,44 @@
+
+.container{
+	position: relative;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	border: 2px solid #5e625c;
+	text-align: left;
+	width: 300px;
+	height: auto;
+	padding: 50px;
+	background-color: #FFFFF0;
+	box-shadow: 7px 5px rgba(0,0,0,0.2);
+}
+.header{
+	border: 0.5px  #5e625c;
+
+}
+.card{
+	display: block;
+	border: 1px solid #7b8d7378;
+	padding: 15px;
+	background-color: #FFFFF0;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+
+	
+}
+img{
+	width: 300px;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+	margin-bottom: 15px;
+	
+	
+}
+.fact .description{
+	background-color: #FFFFF0;
+	
+}
+.fact{
+	font-style: italic;
+}
+.bold{font-weight: bold;text-align: left; }
+ul{list-style: none;display: block;
+	
+}
+li{display: list-item;}
