@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+
+I have learnt some new basic tags 
+
+
+ * What has been easy?
+  
+everything done till lesson3 has been easy
+
+* What has been difficult?
+
+nothing
+
+
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I was able to solve the code by researching about tags and By taking the tree stucture as example I was able to code step by step which made coding simple  
